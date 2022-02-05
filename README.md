@@ -10,7 +10,7 @@
 
 <div styly="align: center">
 <a href="https://www.instagram.com/gea_marco/"><img src="https://img.shields.io/badge/instagram%20Marco%20Gea-DD2476?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/marco-gea/"><img src="https://img.shields.io/badge/linkdin%20Marco%20Gea-344E86?style=for-the-badge&logo=facebook&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/marco-gea/"><img src="https://img.shields.io/badge/linkdin%20Marco%20Gea-344E86?style=for-the-badge&logo=linkdin&logoColor=white"/></a>
 </div>
 
 <br>
