@@ -23,7 +23,7 @@
 ![mongodb](https://img.shields.io/badge/-mongodb-grey?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=8E2DE2)
 ![postgresql](https://img.shields.io/badge/-postgresql-grey?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=8E2DE2)
 ![mysql](https://img.shields.io/badge/-mysql-grey?style=for-the-badge&logo=mysql&logoColor=white&labelColor=8E2DE2)
-![sqlite](https://img.shields.io/badge/-sqlite-grey?style=for-the-badge&logo=sqlite&logoColor=white&labelColor=8E2DE2)
+![sqserver](https://img.shields.io/badge/-sqserver-grey?style=for-the-badge&logo=sqserver&logoColor=white&labelColor=8E2DE2)
 <br>
 ![C#](https://img.shields.io/badge/-csharp-grey?style=for-the-badge&logo=csharp&logoColor=white&labelColor=8E2DE2)
 ![.NET](https://img.shields.io/badge/-dotnet-grey?style=for-the-badge&logo=dotnet&logoColor=white&labelColor=8E2DE2)
