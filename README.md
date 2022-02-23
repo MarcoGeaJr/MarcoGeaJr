@@ -27,7 +27,6 @@
 <br>
 ![C#](https://img.shields.io/badge/-csharp-grey?style=for-the-badge&logo=csharp&logoColor=white&labelColor=8E2DE2)
 ![.NET](https://img.shields.io/badge/-dotnet-grey?style=for-the-badge&logo=dotnet&logoColor=white&labelColor=8E2DE2)
-![ASP.NET](https://img.shields.io/badge/-aspdotnet-grey?style=for-the-badge&logo=aspdotnet&logoColor=white&labelColor=8E2DE2)
 ![python](https://img.shields.io/badge/-python-grey?style=for-the-badge&logo=python&logoColor=white&labelColor=8E2DE2)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcogeajr&theme=radical&title_color=8E2DE2&text_color=fff)
