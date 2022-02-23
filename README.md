@@ -10,7 +10,7 @@
 
 <div styly="align: center">
 <a href="https://www.instagram.com/gea_marco/"><img src="https://img.shields.io/badge/instagram%20Marco%20Gea-DD2476?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/marco-gea/"><img src="https://img.shields.io/badge/linkdin%20Marco%20Gea-344E86?style=for-the-badge&logo=linkdin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/marco-gea/"><img src="https://img.shields.io/badge/linkedin%20Marco%20Gea-344E86?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </div>
 
 <br>
@@ -25,10 +25,10 @@
 ![mysql](https://img.shields.io/badge/-mysql-grey?style=for-the-badge&logo=mysql&logoColor=white&labelColor=8E2DE2)
 ![sqlite](https://img.shields.io/badge/-sqlite-grey?style=for-the-badge&logo=sqlite&logoColor=white&labelColor=8E2DE2)
 <br>
+![C#](https://img.shields.io/badge/-csharp-grey?style=for-the-badge&logo=csharp&logoColor=white&labelColor=8E2DE2)
+![.NET](https://img.shields.io/badge/-dotnet-grey?style=for-the-badge&logo=dotnet&logoColor=white&labelColor=8E2DE2)
+![ASP.NET](https://img.shields.io/badge/-aspdotnet-grey?style=for-the-badge&logo=aspdotnet&logoColor=white&labelColor=8E2DE2)
 ![python](https://img.shields.io/badge/-python-grey?style=for-the-badge&logo=python&logoColor=white&labelColor=8E2DE2)
-![r](https://img.shields.io/badge/-r-grey?style=for-the-badge&logo=r&logoColor=white&labelColor=8E2DE2)
-![machinelearning](https://img.shields.io/badge/-machinelearning-grey?style=for-the-badge&logo=machinelearning&logoColor=white&labelColor=8E2DE2)
-![datascience](https://img.shields.io/badge/-datascience-grey?style=for-the-badge&logo=datascience&logoColor=white&labelColor=8E2DE2)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcogeajr&theme=radical&title_color=8E2DE2&text_color=fff)
 
