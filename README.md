@@ -1,8 +1,8 @@
 # Hello, World! I'm Marco Gea
 
 - 👋 Hi, I’m Marco Gea
-- 👀 I’m interested in Data Science, Business intelligence and Python Backend Development
-- 🌱 I’m currently learning Data Science, ETL, Machine Learning and Exploratory Data Analysis
+- 👀 I’m interested in .Net Backend Development, Data Science and Business intelligence
+- 🌱 I’m currently learning .Net Backend Development, ETL and Exploratory Data Analysis
 - 💬 Ask me anything about Data Sciense, Business Intelligence a Backend
 - 📫 How to reach me marcogea.co@gmail.com
 
