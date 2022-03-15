@@ -31,8 +31,3 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcogeajr&theme=radical&title_color=8E2DE2&text_color=fff)
 
-
-![Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=marcogeajr&repo=BlogAPI&show_icons=true&theme=radical&title_color=8E2DE2&text_color=fff&icon_color=8E2DE2)
-![Repo 2](https://github-readme-stats.vercel.app/api/pin/?username=marcogeajr&repo=consumoapi-csharp&show_icons=true&theme=radical&title_color=8E2DE2&text_color=fff&icon_color=8E2DE2)
-![Repo 3](https://github-readme-stats.vercel.app/api/pin/?username=marcogeajr&repo=CatalogoJogos&show_icons=true&theme=radical&title_color=8E2DE2&text_color=fff&icon_color=8E2DE2)
-
