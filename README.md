@@ -1,8 +1,4 @@
-# Hello, World!
-
-- 👋 Hi, I’m Marco Gea
-- 👀 I’m .Net Backend Developer
-- 📫 You can reach me at marcogea.co@gmail.com
+# Hello, World! I’m Marco Gea
 
 I am a software engineer with a focus on backend development using the .NET platform. I have a special passion for software architecture and code design, always seeking to enhance my skills in this area.
 
@@ -10,7 +6,7 @@ I believe that well-designed architecture is crucial for the success of any soft
 
 In my daily routine, I also serve as a mentor, leading and guiding fellow developers, making strategic architecture decisions, reviewing code, prioritizing tasks, and creating CI/CD pipelines to ensure the seamless delivery of high-quality applications.
 
-Currently, I am focused on studying design patterns, clean code, good code design, and well-architected applications to create modern, scalable, and resilient applications.
+Currently, I am focused on studying design patterns, clean code, well-designed code, and well-architected applications to create modern, scalable, and resilient applications.
 
 <br>
 
